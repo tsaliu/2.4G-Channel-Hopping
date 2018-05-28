@@ -15,7 +15,7 @@ fi
 
 while true; do
 
-MIN=0
+MIN=1
 MAX=17
 rnd=$(( $RANDOM % ($MAX + 1 - $MIN) + $MIN ))
 echo "Set Channel Random $rnd"
