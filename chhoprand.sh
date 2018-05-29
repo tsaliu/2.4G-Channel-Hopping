@@ -13,6 +13,8 @@ else
 	sleep .5
 fi
 
+echo "Setting Random Channels ..."
+
 while true; do
 
 MIN=1

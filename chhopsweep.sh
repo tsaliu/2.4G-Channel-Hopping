@@ -15,6 +15,8 @@ fi
 
 COUNTER=0;
 
+echo "Sweeping Channels ..."
+
 while true; do
 
 if [ $COUNTER -eq 17 ]; then
